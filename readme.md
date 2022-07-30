@@ -15,10 +15,6 @@
 * positioning an element
 * selectors
 
-## My Articles on Hashnode
-
-[selectors](https://vikas360.hashnode.dev/css-selector-guide)
-[positions](https://vikas360.hashnode.dev/positioning-in-css)
 
 # Thanks to
 [Inueron](https://ineuron.ai/)
